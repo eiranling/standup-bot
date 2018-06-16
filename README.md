@@ -9,4 +9,4 @@ A slack bot for performing daily standups. Requires a server.
 * Run the bot with with command `python standupbot.py <hour of standup> <standup minute> <Channel id>`
 
 **Note:**  
-The channel id can be found in the url of the slack channel, e.g. `example.slack.com/messages/CB9NYSS5D/`
+The channel id can be found in the url of the slack channel, e.g. example.slack<span></span>.com/messages/**CB9NYSS5D**/
